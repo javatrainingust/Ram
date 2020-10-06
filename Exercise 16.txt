@@ -1,0 +1,21 @@
+Project Requirement
+In our previous sessions we have completed the domain layer for the Banking application.
+Now it is time to complete the data access layer. Implement the following requirements using 
+the DAO interface and DAOImpl classes.
+
+1.Retrieve all FDAccount objects and display the  details of each FDAccount. (Use Iterator)
+2.Retrieve a specific FDAccount using the account number.
+3.Delete a FDAccount from the container.
+
+4.Retrieve all SBAccount objects and display the details of each SBAccount. (Use Iterator)
+5.Retrieve a specific SBAccount using the Account number.
+6.Delete a SBAccount from the deleteSBAccount(int accountNo)
+
+
+7.Retrieve all CurrentAccount objects and display the details of each Currentccount. (Use Iterator)
+8.Retrieve a specific CurrentAccount using the Account number.
+9.Delete a CurrentAccount from the container.
+
+10.Retrieve all LoanAccount objects and display the details of each LoanAccount (Use Iterator)
+11.Retrieve a specific LoanAccount using the Account number.
+12.Delete a LoanAccount from the container.
