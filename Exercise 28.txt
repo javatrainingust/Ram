@@ -1,0 +1,14 @@
+Create a Spring MVC project. Create a controller class AboutMeController.
+Use @Controller above the class.
+In AboutMeController, have a method public String getMyHobbies().
+
+This method should return the string "hobbies"
+
+Use @RequestMapping("/hobbies") above that method.
+
+
+Create a JSP file under WEB-INF/view named hobbies.jsp
+
+Inside the JSP file, display your hobbies in the body tag.
+
+
